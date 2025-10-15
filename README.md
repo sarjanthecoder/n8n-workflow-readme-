@@ -2,7 +2,7 @@
 
 # 🤖✨ n8n AI Chat Agent — Google Gemini Chat Model Integration
 
-![Workflow Preview](/Screenshot (447).png)
+![Workflow Preview](./n8n.png)
 
 > 🧠 A fully automated conversational AI workflow built in **n8n**, powered by **Google Gemini AI** with **Simple Memory** to maintain context between chats.
 
