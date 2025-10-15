@@ -9,6 +9,7 @@
 ---
 
 ## 🌟 Overview
+📝note: docker image (n8n) = docker.n8n.io/n8nio/n8n
 
 This workflow turns **n8n** into an intelligent chatbot platform capable of:
 - Listening for new chat messages 📨  
