@@ -99,4 +99,5 @@ My Workflow
     "chatInput": "hello",
     "output": "Hi! How can I help you today?"
   }
+##If u want to deploy in ur own server there is a docker image in official n8n page 
 
