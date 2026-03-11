@@ -11,7 +11,7 @@
 
 # n8n-workflow-readme-
 
-# 🤖✨ n8n AI Chat Agent — Google Gemini Chat Model Integration
+🤖✨ n8n AI Chat Agent — Google Gemini Chat Model Integration
 
 ![Workflow Preview](./n8n.png)
 
